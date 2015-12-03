@@ -1,0 +1,84 @@
+﻿生成启动时间为 2015/11/26 16:07:50。
+     1>项目“C:\Users\ran\Desktop\Win32Project1\Win32Project1\Win32Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt plot.cpp
+         plot.cpp
+     1>c:\users\ran\desktop\win32project1\win32project1\mathexpr.h(186): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\ran\desktop\win32project1\win32project1\mathexpr.h(199): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(139): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(189): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(189): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(190): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(194): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(194): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(195): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(199): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(199): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(200): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(204): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(204): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(205): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(210): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(210): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(214): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(214): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(218): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(218): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(222): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(222): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(235): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(235): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(240): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(251): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(251): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(257): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(269): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(269): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(275): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(287): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(287): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(293): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(305): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(305): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\ran\desktop\win32project1\win32project1\parser.h(311): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\plot.cpp(91): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\plot.cpp(149): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(554) : 参见“wcstombs”的声明
+     1>c:\users\ran\desktop\win32project1\win32project1\plot.cpp(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\plot.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\ran\desktop\win32project1\win32project1\plot.cpp(100): warning C4101: “cc”: 未引用的局部变量
+     1>c:\users\ran\desktop\win32project1\win32project1\plot.cpp(108): warning C4101: “si”: 未引用的局部变量
+     1>c:\users\ran\desktop\win32project1\win32project1\mathexpr.h(32): warning C4715: “MathExprParser::charToOp”: 不是所有的控件路径都返回值
+     1>c:\users\ran\desktop\win32project1\win32project1\mathexpr.h(48): warning C4715: “MathExprParser::opToChar”: 不是所有的控件路径都返回值
+     1>c:\users\ran\desktop\win32project1\win32project1\mathexpr.h(103): warning C4715: “MathExprParser::calculateBasicExp”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ran\Desktop\Win32Project1\Debug\homework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ran\Desktop\Win32Project1\Debug\homework.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ran\Desktop\Win32Project1\Debug\homework.lib" /MACHINE:X86 Debug\Win32Project1.res
+         Debug\plot.obj
+         Win32Project1.vcxproj -> C:\Users\ran\Desktop\Win32Project1\Debug\homework.exe
+     1>已完成生成项目“C:\Users\ran\Desktop\Win32Project1\Win32Project1\Win32Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.58
